@@ -1,1 +1,0 @@
-<h1 align="center"><img src="um.jpg" width="90%"/></h1>
